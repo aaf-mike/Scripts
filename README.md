@@ -1,2 +1,4 @@
-# Scripts
-Scripts for various uses.  Has scripts of various uses and languages.
+# Useful Scripts
+Scripts for various uses.  Scripting language may vary.
+
+
