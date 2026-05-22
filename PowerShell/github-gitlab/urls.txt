@@ -1,0 +1,209 @@
+## 365
+# About: Azure audit improvement. Contribute to 2loafabread/AzureAudit development by creating an account on [05/12/2026 - 13:03]
+    https://github.com/2loafabread/AzureAudit
+# About: OneDrive Client for Linux. Contribute to abraunegg/onedrive development by creating an account on [05/12/2026 - 13:03]
+    https://github.com/abraunegg/onedrive
+# About: Microsoft Entra ID Security Assessment Tool. Contribute to alaanasser00/entraid-bench development by creating an account on [05/12/2026 - 13:03]
+    https://github.com/alaanasser00/entraid-bench
+# About: PowerShell script to audit Active Directory security, identifying inactive accounts, privileged users, and potential vulnerabilities [05/12/2026 - 13:03]
+    https://github.com/arucci23/AD-Security-Audit
+# About: Active Directory Audit Tools for IT Audits. Contribute to azauditor/ADAudit development by creating an account on [05/12/2026 - 13:03]
+    https://github.com/azauditor/ADAudit
+# About: Collection of scripts to extract Azure resource information to support security compliance audit [05/12/2026 - 13:03]
+    https://github.com/azsec/azure-audit
+# About: Contribute to Azure/msft-ADPermissionAuditInAzure development by creating an account on [05/12/2026 - 13:03]
+    https://github.com/Azure/msft-ADPermissionAuditInAzure
+# About: Contribute to bastienperez/Microsoft365-Toolbox development by creating an account on [05/12/2026 - 13:03]
+    https://github.com/bastienperez/Microsoft365-Toolbox
+# About: Collection of python tools to help audit Azure environments [05/12/2026 - 13:03]
+    https://github.com/brpat/Azure-Security
+# About: A lightweight PowerShell tool for assessing the security posture of Microsoft Entra ID environments. It helps identify privileged objects, risky assignments, and potential misconfigurations. - Com [05/12/2026 - 13:03]
+    https://github.com/CompassSecurity/EntraFalcon
+# About: Azure Audit Scripts. Contribute to CravateRouge/AzureAudit development by creating an account on [05/12/2026 - 13:03]
+    https://github.com/CravateRouge/AzureAudit
+# About: Group Policy Analytics: Import or remove GPO report with PowerShell [05/12/2026 - 13:03]
+    https://github.com/damienvanrobaeysdev/Intune_Group_Policy_Analytics_PowerShell-Scripts
+# About: Collect / retrieve Office365, AzureAD and DLP audit logs and output to PRTG, Azure Log Analytics Workspace, SQL, Graylog, Fluentd, and/or file output [05/12/2026 - 13:03]
+    https://github.com/ddbnl/office365-audit-log-collector
+# About: :cloud: Track ownership of Azure resources and core/storage account consumption [05/12/2026 - 13:03]
+    https://github.com/jpoon/AzureAuditor
+# About: Script to output Azure IAM permissions and flag any explicit/owner permissions for review [05/12/2026 - 13:03]
+    https://github.com/kylgrn/azure_rbac_audit
+# About: Lightweight security tool for auditing your organization's Conditional Access Policies (CAPs) in Microsoft Entra ID for potential misconfigurations [05/12/2026 - 13:03]
+    https://github.com/securesloth/noCAP
+
+## AWS
+# About: Tools to automate AWS Cloud security assessments. Contribute to andresriancho/aws-audit-automation development by creating an account on [05/12/2026 - 13:03]
+    https://github.com/andresriancho/aws-audit-automation
+
+## Cloud - general
+# About: A command line security audit tool for Amazon Web Services [05/12/2026 - 13:03]
+    https://github.com/Appliscale/cloud-security-audit
+
+## Google/GCP
+# About: Automated auditing, performance metrics, and best practices for the web [05/12/2026 - 13:03]
+    https://github.com/GoogleChrome/lighthouse
+# About: Community Security Analytics provides a set of community-driven audit & threat queries for Google Cloud [05/12/2026 - 13:03]
+    https://github.com/GoogleCloudPlatform/security-analytics
+
+## Linux
+# About: This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG) [05/12/2026 - 13:03]
+    https://github.com/trimstray/the-practical-linux-hardening-guide
+
+## PowerShell
+# About: Contribute to bastienperez/PowerShell-Toolbox development by creating an account on [05/12/2026 - 13:03]
+    https://github.com/bastienperez/PowerShell-Toolbox
+# About: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more [05/12/2026 - 13:03]
+    https://github.com/trimstray/the-book-of-secret-knowledge
+# About: PowerShell Scripts, Tools, and Modules. Contribute to jhochwald/PowerShell-collection development by creating an account on [05/12/2026 - 13:03]
+    https://github.com/jhochwald/PowerShell-collection
+
+# About: An open library of adversary emulation plans designed to empower organizations to test their defenses based on real-world TTPs [05/12/2026 - 13:03]
+    https://github.com/center-for-threat-informed-defense/adversary_emulation_library
+# About: If you have a Samba Active Directory domain controller and would like to audit your users passwords automatically, this script is for you [05/12/2026 - 13:03]
+    https://github.com/ChouaibKhamallah/SambaADAuditPasswords
+# About: Contribute to CompassSecurity/Hacking_Tools_Cheat_Sheet development by creating an account on [05/12/2026 - 13:03]
+    https://github.com/CompassSecurity/Hacking_Tools_Cheat_Sheet
+# About: Collection of online security resources. Contribute to CompassSecurity/security_resources development by creating an account on [05/12/2026 - 13:03]
+    https://github.com/CompassSecurity/security_resources
+# About: Feed the tool a .nessus file and it will automatically get you MSF shell [05/12/2026 - 13:03]
+    https://github.com/DanMcInerney/msf-autoshell
+# About: Parse .nessus file(s) and shows output in interactive UI [05/12/2026 - 13:03]
+    https://github.com/Ebryx/Nessus_Map
+# About: Monitor application usage in Azure Virtual Desktop environments by correlating process events with Microsoft Entra ID roles. Track how different user classes interact with applications through inte [05/12/2026 - 13:03]
+    https://github.com/ecrotty/Audit-AVD-Program-Usage
+# About: Point of Concept: To help to automate the collection of evidence for SOC 2 Audits and etc [05/12/2026 - 13:03]
+    https://github.com/Elevated-Standards/proof-of-concept-cloud-evidence-collection
+# About: Transform a PingCastle HTML or XML report into a branded DOCX and PDF report [05/12/2026 - 13:03]
+    https://github.com/FlorentGuyon/ActiveDirectoryAuditReport
+# About: Powershell script for Group Policy backups including full report and WMI filters [05/12/2026 - 13:03]
+    https://github.com/gadla/GroupPolicyBackup
+# About: Open Source Vulnerability Management Platform. Contribute to infobyte/faraday development by creating an account on [05/12/2026 - 13:03]
+    https://github.com/infobyte/faraday
+# About: Nessus Parser. Contribute to interference-security/nessus_parser development by creating an account on [05/12/2026 - 13:03]
+    https://github.com/interference-security/nessus_parser
+# About: Merges multiple .nessus files into one file. Contribute to 0xprime/NessusReportMerger development by creating an account on [05/12/2026 - 13:03]
+    https://github.com/0xprime/NessusReportMerger
+# About: Training course materials, scripts and notes related to database security audit and penetration testing - JFR-C/Database-Security-Audit [05/12/2026 - 13:03]
+    https://github.com/Jean-Francois-C/Database-Security-Audit
+# About: A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32 [05/12/2026 - 13:03]
+    https://github.com/justcallmekoko/ESP32Marauder
+# About: Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment [05/12/2026 - 13:03]
+    https://github.com/prowler-cloud/prowler
+# About: Audit program for AzureAD. Contribute to netwrix/PingCastleCloud development by creating an account on [05/12/2026 - 13:03]
+    https://github.com/netwrix/PingCastleCloud
+# About: nexporter: export & explore Nessus professional scan data [05/12/2026 - 13:03]
+    https://github.com/queencitycyber/nexporter
+
+## Windows
+# About: A PowerShell Script which audits your Windows Workstation or Server either as a singe machine or en-mass [05/12/2026 - 13:03]
+    https://github.com/alanrenouf/Windows-Workstation-and-Server-Audit
+# About: This application uses Windows Shell, Python, Jinja2 and JavaScript to create a report on the local workstation [05/12/2026 - 13:03]
+    https://github.com/AndrewBuiltThis/workstation-analyzer
+# About: A powerful, all-in-one Windows maintenance toolkit built entirely in Batch &amp; PowerShell. Designed for power users, sysadmins, and curious tinkerers – now smarter, safer, and fully offline-compa [05/12/2026 - 13:03]
+    https://github.com/ios12checker/Windows-Maintenance-Tool
+# About: FontReg.exe is intended as a replacement for Microsoft's outdated fontinst.exe [05/12/2026 - 13:03]
+    https://github.com/jason-jxc/FontReg
+# About: Scripts for converting Windows images (ISO,WIM) to VHD's [05/12/2026 - 13:03]
+    https://github.com/nerdile/convert-windowsimage
+# About: A PowerShell utility to facilitate quick automatic configuration of Windows Sandbox [05/12/2026 - 13:03]
+    https://github.com/oOblik/CustomSandbox
+
+## Active Directory
+# About: Audit tool for Active Directory. Automates a lot of checks from a pentester perspective [05/12/2026 - 13:03]
+    https://github.com/0xJs/domain_audit
+# About: Active Directory Report scripts on users, groups, computers, OUs, group policy, and security [05/12/2026 - 13:03]
+    https://github.com/jimrtyler/ActiveDirectoryReports
+# About: AD Miner is an Active Directory audit tool that leverages cypher queries to crunch data from the #Bloodhound graph database to uncover security weaknesses - AD-Security/AD_Miner [05/12/2026 - 13:03]
+    https://github.com/Mazars-Tech/AD_Miner
+# About: Active Directory Group Membership Auditing. Contribute to nathanbgo/ADGroupAudit development by creating an account on [05/12/2026 - 13:03]
+    https://github.com/nathanbgo/ADGroupAudit
+# About: Extract all users from an Active Directory domain to an Excel worksheet [05/12/2026 - 13:03]
+    https://github.com/p0dalirius/DomainUsersToXLSX
+# About: Powershell script to do domain auditing automation [05/12/2026 - 13:03]
+    https://github.com/phillips321/adaudit
+
+# About: [NOT FOUND] [05/12/2026 - 13:03]
+    https://github.com/Ablueworld/03.5-stig-checklist-parser
+# About: 4,486 visio :art: shapes, stencils, symbols, and icons collection to visually represent your IT infrastructure [05/12/2026 - 13:03]
+    https://github.com/bhdicaire/visioStencils
+# About: CIS Benchmark Audit Scripts. Contribute to bkyoung/cis-benchmark development by creating an account on [05/12/2026 - 13:03]
+    https://github.com/bkyoung/cis-benchmark
+# About: Contribute to dimi901/SOC-2-Audit development by creating an account on [05/12/2026 - 13:03]
+    https://github.com/dimi901/SOC-2-Audit
+# About: Double Commander is a free cross platform open source file manager with two panels side by side [05/12/2026 - 13:03]
+    https://github.com/doublecmd/doublecmd
+# About: Source code syntax highlighting for OneNote 2016 and OneNote for O365 . NoteHighlight 2013 port for OneNote 2016 (32-bit and 64-bit) [05/12/2026 - 13:03]
+    https://github.com/elvirbrk/NoteHighlight2016
+# About: My 3,400 visio :art: shapes, stencils, symbols, and icons collection to visually represent IT infrastructure [05/12/2026 - 13:03]
+    https://github.com/Marcushawley/visioStencils-all
+# About: A collection of more than 170+ tools, scripts, cheatsheets and other loots that I've developed over years for Red Teaming/Pentesting/IT Security audits purposes [05/12/2026 - 13:03]
+    https://github.com/mgeeky/Penetration-Testing-Tools
+# About: Multi-Cloud Security Auditing Tool. Contribute to nccgroup/ScoutSuite development by creating an account on [05/12/2026 - 13:03]
+    https://github.com/nccgroup/ScoutSuite
+# About: PowerHuntShares is an audit script designed in inventory, analyze, and report excessive privileges configured on Active Directory domains [05/12/2026 - 13:03]
+    https://github.com/NetSPI/PowerHuntShares
+# About: Fast offline auditing of Active Directory passwords using Python [05/12/2026 - 13:03]
+    https://github.com/PaperMtn/lil-pwny
+# About: The new generation chameleon based on NRF52840 makes the performance of card emulation more stable. And gave the chameleon the ability to read, write, and decrypt cards. - RfidResearchGroup/Chamele [05/12/2026 - 13:03]
+    https://github.com/RfidResearchGroup/ChameleonUltra
+# About: Sorts Nessus CSVs then places them into a formatted XLXS file [05/12/2026 - 13:03]
+    https://github.com/s0meguy1/Autotravis-Compliance
+# About: Help ensure that their passwords meet specified security standards and are stored securely. The tool can be used to audit password policies across systems and test password strength against common [05/12/2026 - 13:03]
+    https://github.com/Scott-Altiparmak/PassChecker
+# About: PowerShell script to audit permissions for individuals/groups in SharePoint Online - Powered by PnP [05/12/2026 - 13:03]
+    https://github.com/scottmckendry/sp-permissions-audit
+# About: Config files for my GitHub profile. Contribute to securecontrolsframework/securecontrolsframework development by creating an account on [05/12/2026 - 13:03]
+    https://github.com/securecontrolsframework/securecontrolsframework
+# About: A Secure Controls Framework (SCF) Power BI App. Contribute to SecurityBagel/SCFBagel development by creating an account on [05/12/2026 - 13:03]
+    https://github.com/SecurityBagel/SCFBagel
+# About: Cloud Security Suite - One stop tool for auditing the security posture of AWS/GCP/Azure infrastructure [05/12/2026 - 13:03]
+    https://github.com/SecurityFTW/cs-suite
+# About: Workstation-Audit connects to a line-delimited text file of Windows workstations to retrieve specific domain and local configurations [05/12/2026 - 13:03]
+    https://github.com/Sergeant-Soda/Workstation-Audit
+# About: Vulnerability Compliance Report Tool used to parse Nessus files into html reports created by SynerComm, Inc.  - shellntel-acct/vcr [05/12/2026 - 13:03]
+    https://github.com/Shellntel/vcr
+# About: Security Audit Bash Script for Linux Systems. Contribute to sokdr/LinuxAudit development by creating an account on [05/12/2026 - 13:03]
+    https://github.com/sokdr/LinuxAudit
+# About: Various Powershell scripts. Contribute to stianstrysse/powershell-scripts development by creating an account on [05/12/2026 - 13:03]
+    https://github.com/stianstrysse/powershell-scripts
+# About: Scripts to help work with configuration audit files [05/12/2026 - 13:03]
+    https://github.com/tenable/audit_scripts
+# About: One line script for to pull workstation settings. Contribute to thatdadkure/PowerShell-Workstation-Audit-Script development by creating an account on [05/12/2026 - 13:03]
+    https://github.com/thatdadkure/PowerShell-Workstation-Audit-Script
+# About: Linux privilege escalation auditing tool. Contribute to The-Z-Labs/linux-exploit-suggester development by creating an account on [05/12/2026 - 13:03]
+    https://github.com/The-Z-Labs/linux-exploit-suggester
+# About: List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc [05/12/2026 - 13:03]
+    https://github.com/toniblyx/my-arsenal-of-aws-security-tools
+# About: This is a multi-use bash script for Linux systems to audit wireless networks [05/12/2026 - 13:03]
+    https://github.com/v1s1t0r1sh3r3/airgeddon
+# About: This project aims to enhance the working environment on Windows [05/12/2026 - 13:03]
+    https://github.com/valinet/explorerpatcher
+# About: Scripts to gather system configuration information for offline/remote auditing [05/12/2026 - 13:03]
+    https://github.com/vanhauser-thc/audit_scripts
+# About: [NOT FOUND] [05/12/2026 - 13:03]
+    https://github.com/ville87/AzurePermissionAudit
+# About: This repo is recorded how to use the python script with Az CLI for audit team to review the Network ingress and egress [05/12/2026 - 13:03]
+    https://github.com/yiuc/azure-audit
+# About: Generate desktop images [05/12/2026 - 13:03]
+    https://gitlab.com/kalilinux/build-scripts/live-build-config.git
+# About: GitLab.com [05/12/2026 - 13:03]
+    https://gitlab.com/parrotsec/project/debian-conversion-script
+# About: 📊 Boost productivity with 20 ready-to-use Excel VBA macros, complete with clear explanations and automation workflows for effortless data handling [05/12/2026 - 13:03]
+    https://github.com/Renga-hacker/Excel-VBA-Macros
+# About: A library of Excel VBA functions and routines I use in projects [05/12/2026 - 13:03]
+    https://github.com/aaronkeene/ExcelVBA
+# About: Library with VBA, used in multiple projects. Contribute to Vitosh/VBA_personal development by creating an account on [05/12/2026 - 13:03]
+    https://github.com/Vitosh/VBA_personal
+# About: A progress bar for powerpoint presentation in VBA. Contribute to jul-fls/powerpoint-progress-bar development by creating an account on [05/12/2026 - 13:03]
+    https://github.com/jul-fls/powerpoint-progress-bar
+# About: Use a custom agent to automate MS Excel spreadsheets and VBA using PowerShell COM from the CLI [05/12/2026 - 13:03]
+    https://github.com/jcolozzi/MSExcel-CLI-Agent
+# About: Scripts and configuration to prepare a Windows Sandbox environment for offline malware analysis tooling [05/12/2026 - 13:03]
+    https://github.com/mdevolde/windows-sandbox-malware
+# About: My windows sandbox configuration. Contribute to cmoeglin1/Sandbox-Config development by creating an account on [05/12/2026 - 13:03]
+    https://github.com/cmoeglin1/Sandbox-Config
+# About: Auto configuration/ setup of wsb Windows Sandbox. Contribute to noebackert/sandbox-auto-setup development by creating an account on [05/12/2026 - 13:03]
+    https://github.com/noebackert/sandbox-auto-setup
+# About: The Exploit Database - Exploits, Shellcode, 0days, Remote Exploits, Local Exploits, Web Apps, Vulnerability Reports, Security Articles, Tutorials and more https://www.exploit-db.com/ [05/12/2026 - 13:03]
+    https://gitlab.com/exploit-database
